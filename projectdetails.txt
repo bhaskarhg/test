@@ -4,6 +4,9 @@ adding somethign one
 
 adding something two
 
+
 creating new branch...
 
 ok ill to merging
+
+final copy
